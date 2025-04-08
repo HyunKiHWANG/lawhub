@@ -8,7 +8,6 @@
 - next.js - app라우터
 - Typescript 사용안함(컴포넌트'.jsx', javascript '.js')
 - 백엔드: supabase
-- 백엔드: Database는 "MCP"로 연결되어있음.
 - style: tailwindcss 사용해주세요.
 - 아이콘은 Lucide React 사용해주세요.
 
@@ -19,5 +18,5 @@
 
 ### 그 외
 - 코드에 쓰이지 않는 부분들은 알아서 제거 해주세요.
-- 테이블 수정 있을때마다, '/src/data/table_info.md' 파일에 저장해주세요.
+- 테이블 정보 '/src/data/table_info.md' 파일 확인.
 - 유저정보는 '/src/contexts/UserContext.jsx'에서 훅으로 가져오고있어요.
